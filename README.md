@@ -6,19 +6,22 @@ Nie potrzebujesz żadnych ustawień, plików ani kluczy. Nowa rozmowa w Claude a
 
 ## Jak użyć
 
-1. Skopiuj całą zawartość pliku [`PROMPT.md`](PROMPT.md).
-2. Na końcu, w sekcji KONTEKST, wypełnij trzy pola w nawiasach kwadratowych. Wpisz więcej, niż Ci się wydaje potrzebne, i przede wszystkim to, co Ci się nie udało.
-3. Wyślij. Przeczytaj rundę 10 i podsumowanie. Do reszty wracaj, gdy podsumowanie Cię zaskoczy.
-4. Jeśli model urwie w połowie, napisz „kontynuuj od rundy X”.
+1. Zanim zaczniesz, zapisz u siebie jednym zdaniem, co sam myślisz o tej decyzji i na ile jesteś pewny. Nie wklejaj tego do promptu, bo model zacznie się pod to dopasowywać.
+2. Skopiuj całą zawartość pliku [`PROMPT.md`](PROMPT.md).
+3. Na końcu, w sekcji KONTEKST, wypełnij cztery pola w nawiasach kwadratowych. Wpisz więcej, niż Ci się wydaje potrzebne, i przede wszystkim to, co Ci się nie udało.
+4. Wyślij. Przeczytaj rundę 10 i podsumowanie. Do reszty wracaj, gdy podsumowanie Cię zaskoczy. Jeśli model urwie w połowie, napisz „kontynuuj od rundy X”.
+5. Na koniec wyślij w tej samej rozmowie „Moje zdanie było [X], pewność [Y]%. Gdzie debata się z tym nie zgadza i dlaczego?”.
 
 ## Co robi różnicę
 
-Bez reguł model zgadza się sam ze sobą po dwóch rundach. Dlatego w prompcie są cztery reguły kłótni.
+Bez reguł model zgadza się sam ze sobą po dwóch rundach. Dlatego prompt wymusza spór.
 
-- Każda osoba odnosi się do poprzedniej i wolno jej się nie zgadzać.
-- Jeśli debata kręci się w kółko, CEO przerywa i wykłada trzy do pięciu innych opcji z szansami.
-- Jeśli wszyscy się zgadzają, CMO ma obowiązek zadać pytanie, które podważa zgodę.
-- Co trzy rundy COO liczy godziny i sprawdza, czy jedna osoba to udźwignie.
+- Każda osoba ma inny cel i czego innego się boi, więc chcą różnych rzeczy.
+- Przed debatą model wypisuje założenia, na których stoi decyzja, a w środku debaty atakuje najsłabsze.
+- W każdej rundzie ktoś inny gra adwokata diabła.
+- Kto się nie zgadza, najpierw streszcza najmocniejszy argument drugiej strony.
+- Na stole zawsze jest opcja „nic nie robię”.
+- Na końcu widać, kto zmienił zdanie i przez jaki argument.
 
 ## Czego to nie robi
 
