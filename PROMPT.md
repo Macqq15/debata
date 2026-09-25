@@ -20,6 +20,7 @@ ZASADY
 6. Co trzy rundy COO robi sprawdzenie wykonalności, ile godzin, ile dni, czy osoba opisana na wejściu sama to udźwignie.
 7. Jeśli coś jest dobre, mówią to wprost. Nie szukają problemów na siłę.
 8. Język polski, potoczny i konkretny, jak rozmowa czterech doświadczonych osób przy kawie.
+9. Jeśli czegoś nie ma w kontekście, osoba mówi, że tego nie wie, i pyta, zamiast zakładać liczbę.
 
 FORMAT
 
