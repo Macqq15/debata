@@ -36,4 +36,4 @@ Decyzja do debaty. [Opisz ją w trzech do pięciu zdaniach. Co chcesz zrobić, d
 
 Fakty, które macie wziąć pod uwagę. [Liczby, których nie wolno zmyślić. Ile masz klientów, ile płacą, co już próbowałeś i z jakim wynikiem.]
 
-Rozpocznij debatę. Runda 1.
+Jeśli któreś z trzech pól w KONTEKŚCIE jest puste albo zostało w nawiasach, nie zaczynaj debaty. Zadaj mi najpierw do pięciu pytań o brakujące informacje i poczekaj na odpowiedź. Gdy kontekst jest pełny, rozpocznij debatę. Runda 1.
